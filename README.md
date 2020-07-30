@@ -6,4 +6,4 @@
   - 🙆 Enrolled in the Master's degree in Computer Science at MIU.
   
 - 🐬 Ask me about life, universe and everything: I know the answer.
-- 🔥 Fun fact: all my pets are not real.
+- 🔥 Fun fact: I like the movie "Matrix".
