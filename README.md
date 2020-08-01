@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/tubaleviao/tubaleviao/blob/master/fancy_me.png" alt="Illustration of Alvaro with transparent background" width=300px height=460px/>
+
 ### Hello, I'm Alvaro 😁
 
 - I’m currently: 
