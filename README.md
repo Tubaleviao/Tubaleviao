@@ -2,6 +2,8 @@
 
 ### Hello, I'm Alvaro 😁
 
+I'm a Full Stack Developer with over 6 years of experience developing solutions for a variety of clients and business domains. Passionate about new technologies and experienced on migrating data over modern databases. Strong skills and education in Node.js, MongoDB, Angular and React. 
+
 - I’m currently: 
   - 🤓 Working on my first app TubaPlayer and Billy, my robot.
   - 🌱 Learning Angular, React and React Native.
