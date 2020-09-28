@@ -10,4 +10,4 @@ I'm a Full Stack Developer with over 6 years of experience developing solutions 
   - 🙆 Enrolled in the Master's degree in Computer Science at MIU.
   
 - 🐬 Ask me about life, universe and everything: I know the answer.
-- 🔥 Fun fact: I really appreciate the movie "Matrix".
+- 🔥 I really appreciate "The Matrix" but sometimes I wish I was outside.
