@@ -11,3 +11,5 @@ Full Stack Developer with over 5 years of experience developing solutions for a 
   
 - 🐬 Ask me about life, universe and everything: I know the answer.
 - 🔥 I really appreciate "The Matrix" but sometimes I wish I was outside.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
