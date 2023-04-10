@@ -2,14 +2,14 @@
 
 ### Hello, I'm Alvaro 😁
 
-Full Stack Developer with over 5 years of experience developing solutions for a variety of clients and business domains. I'm passionate about new technologies and migrating data over modern databases. I have strong skills and education in Node.js, MongoDB, Angular and React.
+Full Stack Developer with many years of experience developing solutions for a variety of clients and business domains. I'm passionate about new technologies and migrating data over modern databases. I have strong skills and education in Node.js, MongoDB, Angular and React.
 
 - I’m currently: 
   - 🤓 Working on my first app TubaPlayer and Billy, my robot.
   - 🌱 Learning Angular, React and React Native.
-  - 🙆 Enrolled in the Master's degree in Computer Science at MIU.
+  - 🙆 Learning from trying and failing every single day.
   
 - 🐬 Ask me about life, universe and everything: I know the answer.
-- 🔥 I really appreciate "The Matrix" and sometimes I wish I was outside.
+- 🔥 I go outside "The Matrix" once in a while and I really recommend.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tubaleviao&theme=matrix&row=1)](https://github.com/ryo-ma/github-profile-trophy)
